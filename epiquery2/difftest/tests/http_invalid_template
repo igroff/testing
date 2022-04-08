@@ -1,3 +1,0 @@
-#! /usr/bin/env bash
-exec 2>&1
-curl -s http://localhost:8080/file/test/my_manifest_this_dont_exist

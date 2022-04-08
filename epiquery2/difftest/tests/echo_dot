@@ -1,2 +1,0 @@
-#! /usr/bin/env bash
-./difftest/bin/templateRunner.coffee --templatePath ./difftest/templates/test/echo.dot --context '{"pants":"blue jeans","message":"Clint Rulez!!!"}'

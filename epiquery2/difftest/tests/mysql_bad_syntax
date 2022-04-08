@@ -1,3 +1,0 @@
-#! /usr/bin/env bash
-exec 2>&1
-./difftest/bin/wsBasic.coffee --connection mysql --template '/test/really_bad_sql'

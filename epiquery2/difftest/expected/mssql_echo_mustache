@@ -1,3 +1,0 @@
-beginquery{"queryId":"basicSocketQueryId","message":"beginquery"}
-endquery{"queryId":"basicSocketQueryId","message":"endquery"}
-row{"queryId":"basicSocketQueryId","columns":[{"value":"Clint Rulez!!!","name":"message"}],"message":"row"}

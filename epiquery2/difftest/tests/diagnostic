@@ -1,3 +1,0 @@
-#! /usr/bin/env bash
-exec 2>&1
-curl -s -o /dev/null --write-out '%{http_code}' http://localhost:8080/diagnostic

@@ -1,2 +1,0 @@
-#! /usr/bin/env bash
-./difftest/bin/wsEcho.coffee --connection 503a --template '/test/multiple_result.mustache'
